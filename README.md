@@ -35,6 +35,6 @@ This project is a timed code quiz game. It is designed to test your programming 
 
 
 ## Screenshots
-![project.pic1](./assets/images/project.pic1.png)
-![project.pic2](./assets/images/project.pic2.png)
-![project.pic2](./assets/images/project.pic3.png)
+![project.pic1](./images/project.pic1.png)
+![project.pic2](./images/project.pic2.png)
+![project.pic2](./images/project.pic3.png)
