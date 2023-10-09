@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <title>JavaScript Quiz</title>
+</head>
+
+<body>
+    <header>
+        <a href="scores.html">High Scores</a>
+        <h1>JavaScript Quiz</h1>
+
+
+
+
+        <h4 class="timerEl">Time: 60</h4>
+    </header>
+    <section class="intro" id="section">
+        <h1>JavaScript Quiz</h1>
+        <p>This is a JavaScript based quiz that will ask you 5 questions about JavaScript, You will have 60 seconds to
+            complete this quiz. If you get an answer wrong, time will be deducted by 10 seconds.</p>
+        <h3>Good Luck!</h3>
+        <button id="startBtn">Start Quiz</button>
+    </section>
+    <main>
+
+        <section class="quiz">
+            <h1 class="questionEl" id="qs"> </h1>
+            <ul class="answerListEl" id="ans"></ul>
+            <div id="choices" class="choices"></div>
+            <div id="timer"></div>
+        </section>
+    </main>
+
+
+
+
+
+    <section class="end" id="initials" style="display: none;">
+        <h3> Please put your initials </h3>
+        <div id="scoreForm">
+            <input type="text" id="initialInput">
+
+            <button id="submitBtn"> Submit </button>
+        </div>
+        <h4> Your Score was - </h4>
+        <h4 id="results" >
+            
+       </h4>
+        
+
+    </section>
+
+
+
+
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
