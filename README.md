@@ -28,7 +28,7 @@ This project is a timed code quiz game. It is designed to test your programming 
 ## Links 
 [Github](https://github.com/sunainaojha/JS-JavaScript-Quiz)
 
-[live UrL](https://sunainaojha.github.io/Portfolio/)
+[live UrL](https://sunainaojha.github.io/JS-JavaScript-Quiz/)
 
 
 
